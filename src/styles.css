@@ -1,1 +1,36 @@
 /* You can add global styles to this file, and also import other style files */
+
+.fondo { 
+    background: yellow;
+}
+
+td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.tamB {
+    height: 60px;
+    width: 200px;
+}
+
+div {
+    width: 280px;
+    padding: 20px;
+    display: block;
+    text-align: center;
+}
+
+.padre {
+    background: #abe4b8;
+}
+
+.hijo {
+    background: #5af0f0;
+}
+
+.tamB {
+    height: 53px;
+    width: 53px;
+    font-size: 20px;
+}
